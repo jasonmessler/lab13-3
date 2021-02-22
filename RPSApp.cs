@@ -106,7 +106,6 @@ namespace Lab13RPS
                     }
                 } while (true);
             }
-
         }
     }
 }
